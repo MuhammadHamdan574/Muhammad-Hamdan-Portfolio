@@ -60,7 +60,7 @@ function About() {
           Achievements & Awards
         </h1>
         <span>
-          Recognized as the Top Performer at Xprt Computing in 2023 for
+          Recognized as the Top Performer at Xprt Computing in 2024 for
           delivering high-quality solutions and contributing to key product
           launches. Earned a Certificate of Excellence in Web Development from
           Xprt Computing in 2024 after completing over 300 hours of hands-on
@@ -72,11 +72,12 @@ function About() {
           Mission Statement
         </h1>
         <p>
-          My mission is to leverage my skills and creativity to deliver
-          innovative [Your Field] solutions that exceed client expectations and
-          contribute positively to the digital landscape. I am committed to
-          continuous learning and growth, always seeking new challenges and
-          opportunities to expand my horizons.
+          My mission is to leverage my skills and creativity to design, develop,
+          and deliver innovative software solutions that exceed client
+          expectations and drive technological advancement. I am committed to
+          continuous learning, staying updated with emerging technologies, and
+          embracing new challenges to contribute positively to the digital world
+          and create impactful software products.
         </p>
       </div>
     </div>

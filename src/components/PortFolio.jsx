@@ -8,10 +8,10 @@ function PortFolio() {
   const cardItem = [
     {
       id: 1,
-      logo: mongoDB,
-      name: "MongoDB",
+      logo: reactjs,
+      name: "ReactJS",
       description:
-        "MongoDB, a flexible NoSQL database designed for scalability and performance.",
+        "ReactJS, a powerful library for building dynamic user interfaces.",
     },
     {
       id: 2,
@@ -20,20 +20,22 @@ function PortFolio() {
       description:
         "Express.js, a minimal and fast Node.js web application framework.",
     },
+
     {
       id: 3,
-      logo: reactjs,
-      name: "ReactJS",
-      description:
-        "ReactJS, a powerful library for building dynamic user interfaces.",
-    },
-    {
-      id: 4,
       logo: nodejs,
       name: "NodeJS",
       description:
         "NodeJS, a JavaScript runtime built for fast, scalable network applications.",
     },
+    {
+      id: 4,
+      logo: mongoDB,
+      name: "MongoDB",
+      description:
+        "MongoDB, a flexible NoSQL database designed for scalability and performance.",
+    },
+
     {
       id: 5,
       logo: dotnetcore,
